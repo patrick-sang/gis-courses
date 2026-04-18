@@ -2,6 +2,44 @@
 	"coursesCollection": [
 		{
 			"title": [
+				null,
+				null,
+				null,
+				null
+			],
+			"description": [
+				null,
+				null,
+				null,
+				null
+			],
+			"provider": [
+				null,
+				null,
+				null,
+				null
+			],
+			"duration": [
+				null,
+				null,
+				null,
+				null
+			],
+			"level": [
+				null,
+				null,
+				null,
+				null
+			],
+			"url": [
+				null,
+				null,
+				null,
+				null
+			]
+		},
+		{
+			"title": [
 				"Introduction to GIS",
 				"Advanced Spatial Analysis",
 				"Web Mapping with Leaflet & Mapbox",
