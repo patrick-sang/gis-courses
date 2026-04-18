@@ -1,0 +1,45 @@
+{
+	"coursesCollection": [
+		{
+			"title": [
+				"Introduction to GIS",
+				"Advanced Spatial Analysis",
+				"Web Mapping with Leaflet & Mapbox",
+				"Remote Sensing Fundamentals"
+			],
+			"description": [
+				"Learn the fundamentals of Geographic Information Systems: coordinate systems, data models, spatial analysis, and cartography. Hands-on with QGIS.",
+				"Master spatial statistics, interpolation, terrain analysis, and geoprocessing using ArcGIS Pro and Python scripting.",
+				"Build interactive web maps using Leaflet.js, GeoJSON, and custom basemaps. Learn front-end GIS integration and responsive map design.",
+				"Satellite imagery, multispectral analysis, NDVI, land cover classification using Sentinel and Landsat data. Practical exercises."
+			],
+			"provider": [
+				"GIS Academy",
+				"Spatial Labs",
+				"Map School",
+				"Earth Observation Institute"
+			],
+			"duration": [
+				"6 weeks",
+				"8 weeks",
+				"4 weeks",
+				"5 weeks"
+			],
+			"level": [
+				"Beginner",
+				"Advanced",
+				"Intermediate",
+				"Intermediate"
+			],
+			"url": [
+				"",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	],
+	"courses": [
+		"\n            "
+	]
+}
