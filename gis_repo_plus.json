@@ -2,7 +2,7 @@
 	"coursesCollection": [
 		{
 			"image": [
-				"https://placehold.co/600x400/2c7a6e/white?text=GIS+Basics",
+				"",
 				"https://cdn.jsdelivr.net/gh/patrick-sang/gis-courses@b3b86992ee6ff7e8b2f8122f52859713b48b35c5/images/1000036272.jpg",
 				"https://placehold.co/600x400/2c7a6e/white?text=Web+Mapping",
 				"https://placehold.co/600x400/2c7a6e/white?text=Remote+Sensing"
@@ -58,7 +58,7 @@
 		},
 		{
 			"image": [
-				null,
+				"https://placehold.co/600x400/bfd9e5/1f5e54?text=GIS+Image",
 				null,
 				null,
 				null
