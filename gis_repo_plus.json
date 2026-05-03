@@ -1,5 +1,62 @@
 {
-	"coursesCollection": [],
+	"coursesCollection": [
+		{
+			"image": [
+				null,
+				null,
+				null,
+				null
+			],
+			"title": [
+				null,
+				null,
+				null,
+				null
+			],
+			"description": [
+				null,
+				null,
+				null,
+				null
+			],
+			"provider": [
+				null,
+				null,
+				null,
+				null
+			],
+			"duration": [
+				null,
+				null,
+				null,
+				null
+			],
+			"level": [
+				null,
+				null,
+				null,
+				null
+			],
+			"techStack": [
+				null,
+				null,
+				null,
+				null
+			],
+			"url": [
+				null,
+				null,
+				null,
+				null
+			],
+			"imageAlt": [
+				null,
+				null,
+				null,
+				null
+			]
+		}
+	],
 	"courses": [
 		{
 			"image": "https://placehold.co/600x400/bfd9e5/2c7a6e?text=New+GIS+Course",
