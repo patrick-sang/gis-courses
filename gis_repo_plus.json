@@ -2,62 +2,6 @@
 	"coursesCollection": [
 		{
 			"image": [
-				"",
-				"https://cdn.jsdelivr.net/gh/patrick-sang/gis-courses@b3b86992ee6ff7e8b2f8122f52859713b48b35c5/images/1000036272.jpg",
-				"https://placehold.co/600x400/2c7a6e/white?text=Web+Mapping",
-				"https://placehold.co/600x400/2c7a6e/white?text=Remote+Sensing"
-			],
-			"title": [
-				"Introduction to GIS & Cartography",
-				"Advanced Spatial Analysis & Python",
-				"Web GIS: Leaflet & Mapbox GL",
-				"Remote Sensing & Earth Observation"
-			],
-			"description": [
-				"Master core GIS concepts: spatial data models, projections, digitizing, and thematic mapping. Hands-on with QGIS and ArcGIS Online.",
-				"Geostatistics, raster processing, machine learning for spatial data, and automation with GeoPandas & ArcPy.",
-				"Build interactive web maps, integrate GeoJSON, vector tiles, and location-based apps. Modern front-end GIS development.",
-				"Sentinel, Landsat imagery analysis, vegetation indices, image classification using SNAP and Google Earth Engine."
-			],
-			"provider": [
-				"GIS Foundation",
-				"SpatialPython Hub",
-				"Map Academy",
-				"EarthView Institute"
-			],
-			"duration": [
-				"6 weeks",
-				"8 weeks",
-				"5 weeks",
-				"6 weeks"
-			],
-			"level": [
-				"Beginner",
-				"Advanced",
-				"Intermediate",
-				"Intermediate"
-			],
-			"techStack": [
-				"QGIS, ArcGIS, Cartography",
-				"Python, GeoPandas, ArcPy, Rasterio",
-				"JavaScript, Leaflet, Mapbox, HTML/CSS",
-				"SNAP, GEE, QGIS, NDVI"
-			],
-			"url": [
-				"#",
-				"#",
-				"#",
-				"#"
-			],
-			"imageAlt": [
-				"Cartography basics illustration",
-				"Python spatial analysis",
-				"Interactive web map demo",
-				"Satellite image analysis"
-			]
-		},
-		{
-			"image": [
 				"https://placehold.co/600x400/bfd9e5/1f5e54?text=GIS+Image",
 				null,
 				null,
